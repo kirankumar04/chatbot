@@ -1,0 +1,9 @@
+Courses Offered (B.Tech U.G Program)
+Branch	Course Code	Established Year	Intake	Duration	Accreditation(s)
+Electrical & Electronics Engineering	EEE	2008-09	120	4 Years (8 Semesters)	NAAC & NBA
+Mechanical Engineering	MECH	2012-13	120	4 Years (8 Semesters)	NAAC & NBA
+Electronics & Communication Engineering	ECE	2008-09	240	4 Years (8 Semesters)	NAAC & NBA
+Computer Science & Engineering	CSE	2008-09	360	4 Years (8 Semesters)	NAAC & NBA
+Computer Science & Systems Engineering	CSS	2019-20	60	4 Years (8 Semesters)	NAAC
+Computer Science & Information Technology	CIT	2020-21	60	4 Years (8 Semesters)	NAAC
+Computer Science and Engineering ( AI & Machine Learning )	CSM	2023-24	60	4 Years ( 8 Semesters )	NAAC

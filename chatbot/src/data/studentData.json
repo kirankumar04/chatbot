@@ -1,0 +1,710 @@
+{
+  "faculty": [
+    {
+      "id": "f1",
+      "name": "Venu",
+      "email": "venu@example.com",
+      "profileImg": "https://lendi.edu.in//cloud/2024/12/27/1735301603_cropped-image.jpg.jpg"
+    },
+    {
+      "id": "f2",
+      "name": "Anji reddy",
+      "email": "anjireddy@example.com",
+      "profileImg": "https://lendi.edu.in//cloud/2024/12/27/1735299713_cropped-image.jpg.jpg"
+    }
+  ],
+"students": [
+    {
+    "id": 1,
+    "name": "Kiran Kumar",
+    "regNo": "21KD1A0538",
+    "email": "21kd1a0538@lendi.org",
+    "phone": 9876543210,
+    "department": "Computer Science",
+    "year": 4,
+    "profileImg": "",
+    "facultyId": "f1",
+    "semesters": {
+      "semester1": {
+        "attendance": 82,
+        "cgpa": 6.5,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths I", "marks": 78, "maxMarks": 100, "average": 65 },
+          { "subject": "Physics", "marks": 84, "maxMarks": 100, "average": 68 },
+          { "subject": "C Programming", "marks": 76, "maxMarks": 100, "average": 70 },
+          { "subject": "Engineering Drawing", "marks": 80, "maxMarks": 100, "average": 72 },
+          { "subject": "English", "marks": 88, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 80 },
+          { "month": "Feb", "percentage": 82 },
+          { "month": "Mar", "percentage": 78 },
+          { "month": "Apr", "percentage": 85 },
+          { "month": "May", "percentage": 80 },
+          { "month": "Jun", "percentage": 83 }
+        ]
+      },
+      "semester2": {
+        "attendance": 85,
+        "cgpa": 6.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths II", "marks": 79, "maxMarks": 100, "average": 66 },
+          { "subject": "Chemistry", "marks": 81, "maxMarks": 100, "average": 67 },
+          { "subject": "Data Structures", "marks": 74, "maxMarks": 100, "average": 70 },
+          { "subject": "OOPs", "marks": 77, "maxMarks": 100, "average": 71 },
+          { "subject": "EVS", "marks": 90, "maxMarks": 100, "average": 76 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 84 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 88 },
+          { "month": "Oct", "percentage": 85 },
+          { "month": "Nov", "percentage": 83 },
+          { "month": "Dec", "percentage": 84 }
+        ]
+      },
+      "semester3": {
+        "attendance": 88,
+        "cgpa": 7.2,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "DBMS", "marks": 86, "maxMarks": 100, "average": 74 },
+          { "subject": "OS", "marks": 83, "maxMarks": 100, "average": 73 },
+          { "subject": "DSA", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "Python", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Web Tech", "marks": 80, "maxMarks": 100, "average": 70 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 87 },
+          { "month": "Feb", "percentage": 88 },
+          { "month": "Mar", "percentage": 89 },
+          { "month": "Apr", "percentage": 86 },
+          { "month": "May", "percentage": 85 },
+          { "month": "Jun", "percentage": 90 }
+        ]
+      },
+      "semester4": {
+        "attendance": 86,
+        "cgpa": 7.5,
+        "feesStatus": "partial",
+        "subjects": [
+          { "subject": "Java", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "OS Lab", "marks": 84, "maxMarks": 100, "average": 73 },
+          { "subject": "CN", "marks": 83, "maxMarks": 100, "average": 74 },
+          { "subject": "Maths III", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "AI Basics", "marks": 85, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 85 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 84 },
+          { "month": "Oct", "percentage": 87 },
+          { "month": "Nov", "percentage": 85 },
+          { "month": "Dec", "percentage": 88 }
+        ]
+      },
+      "semester5": {
+        "attendance": 90,
+        "cgpa": 7.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Software Engg", "marks": 86, "maxMarks": 100, "average": 75 },
+          { "subject": "SE Lab", "marks": 82, "maxMarks": 100, "average": 70 },
+          { "subject": "CN Lab", "marks": 88, "maxMarks": 100, "average": 73 },
+          { "subject": "Maths IV", "marks": 85, "maxMarks": 100, "average": 76 },
+          { "subject": "Web Lab", "marks": 90, "maxMarks": 100, "average": 77 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 91 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 90 },
+          { "month": "Apr", "percentage": 92 },
+          { "month": "May", "percentage": 88 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester6": {
+        "attendance": 93,
+        "cgpa": 8.1,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Big Data", "marks": 90, "maxMarks": 100, "average": 78 },
+          { "subject": "Big Data Lab", "marks": 89, "maxMarks": 100, "average": 77 },
+          { "subject": "DAA", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "Mobile Dev", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Cloud", "marks": 86, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      },
+      "semester7": {
+        "attendance": 89,
+        "cgpa": 8.3,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "ML", "marks": 91, "maxMarks": 100, "average": 80 },
+          { "subject": "AI", "marks": 88, "maxMarks": 100, "average": 78 },
+          { "subject": "IoT", "marks": 90, "maxMarks": 100, "average": 77 },
+          { "subject": "Cloud Lab", "marks": 87, "maxMarks": 100, "average": 76 },
+          { "subject": "Minor Project", "marks": 95, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 88 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 87 },
+          { "month": "Apr", "percentage": 90 },
+          { "month": "May", "percentage": 89 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester8": {
+        "attendance": 91,
+        "cgpa": 8.6,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Deep Learning", "marks": 92, "maxMarks": 100, "average": 82 },
+          { "subject": "Blockchain", "marks": 89, "maxMarks": 100, "average": 80 },
+          { "subject": "Security", "marks": 87, "maxMarks": 100, "average": 78 },
+          { "subject": "DevOps", "marks": 90, "maxMarks": 100, "average": 81 },
+          { "subject": "Major Project", "marks": 96, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Shyam Sundar",
+    "regNo": "21KD1A0515",
+    "email": "21kd1a0515@lendi.org",
+    "phone": 9876543210,
+    "department": "Computer Science",
+    "year": 4,
+    "profileImg": "",
+    "facultyId": "f2",
+    "semesters": {
+      "semester1": {
+        "attendance": 82,
+        "cgpa": 6.5,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths I", "marks": 78, "maxMarks": 100, "average": 65 },
+          { "subject": "Physics", "marks": 84, "maxMarks": 100, "average": 68 },
+          { "subject": "C Programming", "marks": 76, "maxMarks": 100, "average": 70 },
+          { "subject": "Engineering Drawing", "marks": 80, "maxMarks": 100, "average": 72 },
+          { "subject": "English", "marks": 88, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 80 },
+          { "month": "Feb", "percentage": 82 },
+          { "month": "Mar", "percentage": 78 },
+          { "month": "Apr", "percentage": 85 },
+          { "month": "May", "percentage": 80 },
+          { "month": "Jun", "percentage": 83 }
+        ]
+      },
+      "semester2": {
+        "attendance": 85,
+        "cgpa": 6.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths II", "marks": 79, "maxMarks": 100, "average": 66 },
+          { "subject": "Chemistry", "marks": 81, "maxMarks": 100, "average": 67 },
+          { "subject": "Data Structures", "marks": 74, "maxMarks": 100, "average": 70 },
+          { "subject": "OOPs", "marks": 77, "maxMarks": 100, "average": 71 },
+          { "subject": "EVS", "marks": 90, "maxMarks": 100, "average": 76 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 84 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 88 },
+          { "month": "Oct", "percentage": 85 },
+          { "month": "Nov", "percentage": 83 },
+          { "month": "Dec", "percentage": 84 }
+        ]
+      },
+      "semester3": {
+        "attendance": 88,
+        "cgpa": 7.2,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "DBMS", "marks": 86, "maxMarks": 100, "average": 74 },
+          { "subject": "OS", "marks": 83, "maxMarks": 100, "average": 73 },
+          { "subject": "DSA", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "Python", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Web Tech", "marks": 80, "maxMarks": 100, "average": 70 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 87 },
+          { "month": "Feb", "percentage": 88 },
+          { "month": "Mar", "percentage": 89 },
+          { "month": "Apr", "percentage": 86 },
+          { "month": "May", "percentage": 85 },
+          { "month": "Jun", "percentage": 90 }
+        ]
+      },
+      "semester4": {
+        "attendance": 86,
+        "cgpa": 7.5,
+        "feesStatus": "partial",
+        "subjects": [
+          { "subject": "Java", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "OS Lab", "marks": 84, "maxMarks": 100, "average": 73 },
+          { "subject": "CN", "marks": 83, "maxMarks": 100, "average": 74 },
+          { "subject": "Maths III", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "AI Basics", "marks": 85, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 85 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 84 },
+          { "month": "Oct", "percentage": 87 },
+          { "month": "Nov", "percentage": 85 },
+          { "month": "Dec", "percentage": 88 }
+        ]
+      },
+      "semester5": {
+        "attendance": 90,
+        "cgpa": 7.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Software Engg", "marks": 86, "maxMarks": 100, "average": 75 },
+          { "subject": "SE Lab", "marks": 82, "maxMarks": 100, "average": 70 },
+          { "subject": "CN Lab", "marks": 88, "maxMarks": 100, "average": 73 },
+          { "subject": "Maths IV", "marks": 85, "maxMarks": 100, "average": 76 },
+          { "subject": "Web Lab", "marks": 90, "maxMarks": 100, "average": 77 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 91 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 90 },
+          { "month": "Apr", "percentage": 92 },
+          { "month": "May", "percentage": 88 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester6": {
+        "attendance": 93,
+        "cgpa": 8.1,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Big Data", "marks": 90, "maxMarks": 100, "average": 78 },
+          { "subject": "Big Data Lab", "marks": 89, "maxMarks": 100, "average": 77 },
+          { "subject": "DAA", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "Mobile Dev", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Cloud", "marks": 86, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      },
+      "semester7": {
+        "attendance": 89,
+        "cgpa": 8.3,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "ML", "marks": 91, "maxMarks": 100, "average": 80 },
+          { "subject": "AI", "marks": 88, "maxMarks": 100, "average": 78 },
+          { "subject": "IoT", "marks": 90, "maxMarks": 100, "average": 77 },
+          { "subject": "Cloud Lab", "marks": 87, "maxMarks": 100, "average": 76 },
+          { "subject": "Minor Project", "marks": 95, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 88 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 87 },
+          { "month": "Apr", "percentage": 90 },
+          { "month": "May", "percentage": 89 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester8": {
+        "attendance": 91,
+        "cgpa": 8.6,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Deep Learning", "marks": 92, "maxMarks": 100, "average": 82 },
+          { "subject": "Blockchain", "marks": 89, "maxMarks": 100, "average": 80 },
+          { "subject": "Security", "marks": 87, "maxMarks": 100, "average": 78 },
+          { "subject": "DevOps", "marks": 90, "maxMarks": 100, "average": 81 },
+          { "subject": "Major Project", "marks": 96, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Manoj Kumar",
+    "regNo": "21KD1A0547",
+    "email": "21kd1a0547@lendi.org",
+    "phone": 9876543210,
+    "department": "Computer Science",
+    "year": 4,
+    "profileImg": "",
+    "facultyId": "f2",
+    "semesters": {
+      "semester1": {
+        "attendance": 82,
+        "cgpa": 6.5,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths I", "marks": 78, "maxMarks": 100, "average": 65 },
+          { "subject": "Physics", "marks": 84, "maxMarks": 100, "average": 68 },
+          { "subject": "C Programming", "marks": 76, "maxMarks": 100, "average": 70 },
+          { "subject": "Engineering Drawing", "marks": 80, "maxMarks": 100, "average": 72 },
+          { "subject": "English", "marks": 88, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 80 },
+          { "month": "Feb", "percentage": 82 },
+          { "month": "Mar", "percentage": 78 },
+          { "month": "Apr", "percentage": 85 },
+          { "month": "May", "percentage": 80 },
+          { "month": "Jun", "percentage": 83 }
+        ]
+      },
+      "semester2": {
+        "attendance": 85,
+        "cgpa": 6.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths II", "marks": 79, "maxMarks": 100, "average": 66 },
+          { "subject": "Chemistry", "marks": 81, "maxMarks": 100, "average": 67 },
+          { "subject": "Data Structures", "marks": 74, "maxMarks": 100, "average": 70 },
+          { "subject": "OOPs", "marks": 77, "maxMarks": 100, "average": 71 },
+          { "subject": "EVS", "marks": 90, "maxMarks": 100, "average": 76 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 84 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 88 },
+          { "month": "Oct", "percentage": 85 },
+          { "month": "Nov", "percentage": 83 },
+          { "month": "Dec", "percentage": 84 }
+        ]
+      },
+      "semester3": {
+        "attendance": 88,
+        "cgpa": 7.2,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "DBMS", "marks": 86, "maxMarks": 100, "average": 74 },
+          { "subject": "OS", "marks": 83, "maxMarks": 100, "average": 73 },
+          { "subject": "DSA", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "Python", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Web Tech", "marks": 80, "maxMarks": 100, "average": 70 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 87 },
+          { "month": "Feb", "percentage": 88 },
+          { "month": "Mar", "percentage": 89 },
+          { "month": "Apr", "percentage": 86 },
+          { "month": "May", "percentage": 85 },
+          { "month": "Jun", "percentage": 90 }
+        ]
+      },
+      "semester4": {
+        "attendance": 86,
+        "cgpa": 7.5,
+        "feesStatus": "partial",
+        "subjects": [
+          { "subject": "Java", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "OS Lab", "marks": 84, "maxMarks": 100, "average": 73 },
+          { "subject": "CN", "marks": 83, "maxMarks": 100, "average": 74 },
+          { "subject": "Maths III", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "AI Basics", "marks": 85, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 85 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 84 },
+          { "month": "Oct", "percentage": 87 },
+          { "month": "Nov", "percentage": 85 },
+          { "month": "Dec", "percentage": 88 }
+        ]
+      },
+      "semester5": {
+        "attendance": 90,
+        "cgpa": 7.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Software Engg", "marks": 86, "maxMarks": 100, "average": 75 },
+          { "subject": "SE Lab", "marks": 82, "maxMarks": 100, "average": 70 },
+          { "subject": "CN Lab", "marks": 88, "maxMarks": 100, "average": 73 },
+          { "subject": "Maths IV", "marks": 85, "maxMarks": 100, "average": 76 },
+          { "subject": "Web Lab", "marks": 90, "maxMarks": 100, "average": 77 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 91 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 90 },
+          { "month": "Apr", "percentage": 92 },
+          { "month": "May", "percentage": 88 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester6": {
+        "attendance": 93,
+        "cgpa": 8.1,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Big Data", "marks": 90, "maxMarks": 100, "average": 78 },
+          { "subject": "Big Data Lab", "marks": 89, "maxMarks": 100, "average": 77 },
+          { "subject": "DAA", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "Mobile Dev", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Cloud", "marks": 86, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      },
+      "semester7": {
+        "attendance": 89,
+        "cgpa": 8.3,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "ML", "marks": 91, "maxMarks": 100, "average": 80 },
+          { "subject": "AI", "marks": 88, "maxMarks": 100, "average": 78 },
+          { "subject": "IoT", "marks": 90, "maxMarks": 100, "average": 77 },
+          { "subject": "Cloud Lab", "marks": 87, "maxMarks": 100, "average": 76 },
+          { "subject": "Minor Project", "marks": 95, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 88 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 87 },
+          { "month": "Apr", "percentage": 90 },
+          { "month": "May", "percentage": 89 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester8": {
+        "attendance": 91,
+        "cgpa": 8.6,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Deep Learning", "marks": 92, "maxMarks": 100, "average": 82 },
+          { "subject": "Blockchain", "marks": 89, "maxMarks": 100, "average": 80 },
+          { "subject": "Security", "marks": 87, "maxMarks": 100, "average": 78 },
+          { "subject": "DevOps", "marks": 90, "maxMarks": 100, "average": 81 },
+          { "subject": "Major Project", "marks": 96, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Akshitha",
+    "regNo": "21KD1A0511",
+    "email": "21kd1a0511@lendi.org",
+    "phone": 9876543210,
+    "department": "Computer Science",
+    "year": 4,
+    "profileImg": "",
+    "facultyId": "f2",
+    "semesters": {
+      "semester1": {
+        "attendance": 82,
+        "cgpa": 6.5,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths I", "marks": 78, "maxMarks": 100, "average": 65 },
+          { "subject": "Physics", "marks": 84, "maxMarks": 100, "average": 68 },
+          { "subject": "C Programming", "marks": 76, "maxMarks": 100, "average": 70 },
+          { "subject": "Engineering Drawing", "marks": 80, "maxMarks": 100, "average": 72 },
+          { "subject": "English", "marks": 88, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 80 },
+          { "month": "Feb", "percentage": 82 },
+          { "month": "Mar", "percentage": 78 },
+          { "month": "Apr", "percentage": 85 },
+          { "month": "May", "percentage": 80 },
+          { "month": "Jun", "percentage": 83 }
+        ]
+      },
+      "semester2": {
+        "attendance": 85,
+        "cgpa": 6.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Maths II", "marks": 79, "maxMarks": 100, "average": 66 },
+          { "subject": "Chemistry", "marks": 81, "maxMarks": 100, "average": 67 },
+          { "subject": "Data Structures", "marks": 74, "maxMarks": 100, "average": 70 },
+          { "subject": "OOPs", "marks": 77, "maxMarks": 100, "average": 71 },
+          { "subject": "EVS", "marks": 90, "maxMarks": 100, "average": 76 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 84 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 88 },
+          { "month": "Oct", "percentage": 85 },
+          { "month": "Nov", "percentage": 83 },
+          { "month": "Dec", "percentage": 84 }
+        ]
+      },
+      "semester3": {
+        "attendance": 88,
+        "cgpa": 7.2,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "DBMS", "marks": 86, "maxMarks": 100, "average": 74 },
+          { "subject": "OS", "marks": 83, "maxMarks": 100, "average": 73 },
+          { "subject": "DSA", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "Python", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Web Tech", "marks": 80, "maxMarks": 100, "average": 70 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 87 },
+          { "month": "Feb", "percentage": 88 },
+          { "month": "Mar", "percentage": 89 },
+          { "month": "Apr", "percentage": 86 },
+          { "month": "May", "percentage": 85 },
+          { "month": "Jun", "percentage": 90 }
+        ]
+      },
+      "semester4": {
+        "attendance": 86,
+        "cgpa": 7.5,
+        "feesStatus": "partial",
+        "subjects": [
+          { "subject": "Java", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "OS Lab", "marks": 84, "maxMarks": 100, "average": 73 },
+          { "subject": "CN", "marks": 83, "maxMarks": 100, "average": 74 },
+          { "subject": "Maths III", "marks": 82, "maxMarks": 100, "average": 72 },
+          { "subject": "AI Basics", "marks": 85, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 85 },
+          { "month": "Aug", "percentage": 86 },
+          { "month": "Sep", "percentage": 84 },
+          { "month": "Oct", "percentage": 87 },
+          { "month": "Nov", "percentage": 85 },
+          { "month": "Dec", "percentage": 88 }
+        ]
+      },
+      "semester5": {
+        "attendance": 90,
+        "cgpa": 7.8,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Software Engg", "marks": 86, "maxMarks": 100, "average": 75 },
+          { "subject": "SE Lab", "marks": 82, "maxMarks": 100, "average": 70 },
+          { "subject": "CN Lab", "marks": 88, "maxMarks": 100, "average": 73 },
+          { "subject": "Maths IV", "marks": 85, "maxMarks": 100, "average": 76 },
+          { "subject": "Web Lab", "marks": 90, "maxMarks": 100, "average": 77 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 91 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 90 },
+          { "month": "Apr", "percentage": 92 },
+          { "month": "May", "percentage": 88 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester6": {
+        "attendance": 93,
+        "cgpa": 8.1,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Big Data", "marks": 90, "maxMarks": 100, "average": 78 },
+          { "subject": "Big Data Lab", "marks": 89, "maxMarks": 100, "average": 77 },
+          { "subject": "DAA", "marks": 88, "maxMarks": 100, "average": 76 },
+          { "subject": "Mobile Dev", "marks": 85, "maxMarks": 100, "average": 74 },
+          { "subject": "Cloud", "marks": 86, "maxMarks": 100, "average": 75 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      },
+      "semester7": {
+        "attendance": 89,
+        "cgpa": 8.3,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "ML", "marks": 91, "maxMarks": 100, "average": 80 },
+          { "subject": "AI", "marks": 88, "maxMarks": 100, "average": 78 },
+          { "subject": "IoT", "marks": 90, "maxMarks": 100, "average": 77 },
+          { "subject": "Cloud Lab", "marks": 87, "maxMarks": 100, "average": 76 },
+          { "subject": "Minor Project", "marks": 95, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jan", "percentage": 88 },
+          { "month": "Feb", "percentage": 89 },
+          { "month": "Mar", "percentage": 87 },
+          { "month": "Apr", "percentage": 90 },
+          { "month": "May", "percentage": 89 },
+          { "month": "Jun", "percentage": 91 }
+        ]
+      },
+      "semester8": {
+        "attendance": 91,
+        "cgpa": 8.6,
+        "feesStatus": "paid",
+        "subjects": [
+          { "subject": "Deep Learning", "marks": 92, "maxMarks": 100, "average": 82 },
+          { "subject": "Blockchain", "marks": 89, "maxMarks": 100, "average": 80 },
+          { "subject": "Security", "marks": 87, "maxMarks": 100, "average": 78 },
+          { "subject": "DevOps", "marks": 90, "maxMarks": 100, "average": 81 },
+          { "subject": "Major Project", "marks": 96, "maxMarks": 100, "average": 85 }
+        ],
+        "attendanceHistory": [
+          { "month": "Jul", "percentage": 92 },
+          { "month": "Aug", "percentage": 91 },
+          { "month": "Sep", "percentage": 93 },
+          { "month": "Oct", "percentage": 94 },
+          { "month": "Nov", "percentage": 92 },
+          { "month": "Dec", "percentage": 93 }
+        ]
+      }
+    }
+  }
+]
+}

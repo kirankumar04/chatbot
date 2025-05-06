@@ -1,0 +1,46 @@
+Titles & Volumes
+Central Library Titles and Volumes
+Department	Titles	Volumes
+Electrical and Electronics Engineering	824	6308
+Mechanical Engineering	729	5619
+Electronics and Communication Engineering	865	7144
+Computer Science & Engineering	917	8104
+Computer Science & Systems Engineering	302	1365
+Computer Science & Information Technology	252	1292
+Computer Science & Engineering(AI & Machine Learning)	154	774
+Science & Humanities	518	5948
+Total Titles	Total Volumes
+4561	36554
+Department Library Titles and Volumes
+Department	Titles	Volumes
+Electrical and Electronics Engineering	294	962
+Mechanical Engineering	321	1227
+Electronics and Communication Engineering	246	1137
+Computer Science & Engineering	315	1409
+Computer Science & Systems Engineering	-	-
+Computer Science & Information Technology	-	-
+Computer Science & Engineering(AI & Machine Learning)	-	-
+Science & Humanities	311	936
+Periodicals
+About Periodicals
+The Library receives 51 Printed Journals, 20 Technical Magazines, 7 News Papers.
+
+About Journals
+Department	National	International
+Electrical and Electronics Engineering	7	2
+Mechanical Engineering	8	2
+Electronics and Communication Engineering	8	2
+Computer Science & Enginnering	12	2
+Science & Humanities	8	0
+Total	43	8
+About Magazines
+Magazines Type	Count
+Electrical and Electronics Engineering	5
+Mechanical Engineering	5
+Electronics and Communication Engineering	5
+Computer Science & Engineering	5
+Science & Humanities	2
+Total	22
+About Newspapers
+Languages	Names of Papers	Count
+English & Telugu	The Hindu, Times of India, Hans India Eenadu, Andhra Jyothi, Sakshi	7

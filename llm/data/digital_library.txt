@@ -1,0 +1,20 @@
+Digital Library
+About Digital Library
+The reading area in the library has been Network connectivity access to the Internet and 25 PC are meant for users to access databases, E-books, E-journals and other E-resources. We can give the Facility for take printouts from the E-resources.
+
+System Configuration
+Configuration Type	Configuration Details
+Number of Computers	25 with multimedia and Internet facility in Digital Library. Company: DEL Intel core 2duo, 2.20 GHZ, 2GB RAM, 160 GB Hard disk
+Broad Band Connectivity	100 Mbps
+E-Resources
+Name of the Resource	Description	Reference Links
+Springer	449 Journals	https://link.springer.com
+NPTEL	5000 Hours of 12604 video Lectures on 429 subjects, 129 Web Based Courses	http://172.17.4.27:7070/nptl/home.jsp
+DELNET	Developing Library Network provides union catalogues and data bases, inter library loan and document delivery services and E-Journals, E-Books	http://delnet.nic.in/
+NDL	Books, Articles, Thesis, Manuscripts, Audio Lectures, and Video Lectures	https://ndl.iitkgp.ac.in/
+N-List	Developing Library Network provides union catalogues and data bases, inter library loan and document delivery services and E-Journals, E-Books	http://nlist.inflibnet.ac.in/
+E-KUMBH	e-KUMBH (Knowledge Unleashed in Multiple Bharatiya Languages) portal can access free to engineering e-books	https://ekumbh.aicte-india.org/
+SwayamPrabha	The SWAYAM PRABHA is a group of 34 DTH channels devoted to telecasting of high-quality educational programmes on 24X7 basis using the GSAT-15 satellite	https://www.swayamprabha.gov.in/
+IEI-Journals	IEI provides access to various journals and news letters for research oriented aspects	https://ieindia.org/
+IEEE	IEEE Explore –ASPP : 198 e-Journals	https://ieeexplore.ieee.org/Xplore/home.jsp
+Springer Nature	Springer Nature Link (4 Subject package)-724 e-Journals	https://link.springer.com/

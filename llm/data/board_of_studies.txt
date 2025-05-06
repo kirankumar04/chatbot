@@ -1,0 +1,80 @@
+Board of Studies
+EEE Board of Studies
+Name of the Member	Designation	Responsibility
+Dr. K. Subbaramaiah	Head of the Department	Chairman
+All Faculty	Professor	Member
+Dr.A.Padmaja	Assistant Professor & HOD, JNTU-GV, CEV(A),VZM	University Nominee
+Dr. Ravikumar Bhimasingu	Professor, IIT Hyderabad	Subject Expert
+Dr. V V S Bhaskara Reddy	Professor, Andhra University	Subject Expert
+Mr. Manoj Tiwari	Senior General Manager-Head HR Manufacturing, Polycab India Ltd	Industry Expert
+Mr. Varun Rohit Vadapalli	Global Technical Service Specialist, Solar Edge Technologies Pvt.Ltd, Banglore	Alumni
+MECH Board of Studies
+Name of the Member	Designation	Responsibility
+Dr. P.Satish	Head of the Department	Chairman
+All Faculty	Professor	Member
+Dr. C. Neelima Devi	Assistant Professor & HOD, JNTU-GV CEV(A), Vizianagaram	University Nominee
+Dr. A.Venu Gopal	Professor, Dept. of Mechanical Engineering NIT,Warangal	Subject Expert
+Dr. V. Panduranga	Professor, IIT Bhubaneswar	Subject Expert
+Mr. S. Appala Naidu	SProject Lead, Moldtek Technologies Limited	Industry Expert
+Mr.Y. Jagadeesh	Production Officer, Tata Sikorsky Aerospace Limited	Alumni
+ECE Board of Studies
+Name of the Member	Designation	Responsibility
+Dr. M Rajan Babu	Head of the Department	Chairman
+All Faculty	Professor(s)	Member
+Dr.R Gurunadha	Associate Professor & CE, JNTU-GV, Vizianagaram	University Nominee
+Prof. Anup Dandapat	Professor, ECE, NIT Meghalaya	Subject Expert
+Dr. P. Rangababu	Associate Professor, ECE Department, IITDMK	Subject Expert
+Mr. G Tammiraju	Senior Manager Testing, Tessolve Solutions	Industry Expert
+A Venkatesh	Technical Lead, BOSH	Alumni
+CSE Board of Studies
+Name of the Member	Designation	Responsibility
+Prof. A. Rama Rao	Head of the Department	Chairman
+All Faculty	Professor	Member
+Dr. R. Rajeswara Rao	Professor & DAA	University Nominee
+Dr. Madhu Mutyam	Professor IIT Madras, Chennai	Subject Expert
+Dr. Badal Soni	Assistant Professor, NIT Silchar	Subject Expert
+Suresh Narra	DC Head, Infosys, Visakhapatnam	Industry Expert
+Swathi Vuriti	Lead Consultant	Alumni
+CSSE Board of Studies
+Name of the Member	Designation	Responsibility
+Sk Atalaf Rahman	Head of the Department	Chairman
+All Faculty	Professor(s)	Members
+Dr. D. Rajya Lakshmi	Professor & DE, JNTU-GV, Vizianagaram	University Nominee
+Dr.Ch. Sudhakar	Professor, NIT Warangal	Subject Expert
+Dr. A Chandra Sekhar Rao	Associate Professor, IIT Jharkhand, Dhanbad	Subject Expert
+Mr. T Srinivas Reddy	HR Head, Tech Mahindra	Industry Expert
+Mr. Kurada Nikhil	Product Analyst	Alumni
+CSIT Board of Studies
+Name of the Member	Designation	Responsibility
+Mr. G Prakash Babu	Head of the Department	Chairman
+All Faculty	Professor	Member
+Dr. G. Jaya Suma	Professor & Registrar, UCEV-JNTU-GV, Vizianagaram	University Nominee
+Dr. Bala Prakasa Rao Killi	Asst. Professor, NIT Warangal	Subject Expert
+Dr. B. Prajna	Professor, Andhra University	Subject Expert
+Mr. Suresh Kumar Tankala	Lead Consultant, Wipro Ltd	Industry Expert
+Ms. K Maha Laxmi		Alumni
+CSE (AI & ML) Board of Studies
+Name of the Member	Designation	Responsibility
+V Appala Naidu	Head of the Department	Chairman
+All Faculty	Professor(s)	Member
+Dr.G.Jaya Suma	Professor & Registrar, UCEV-JNTU-GV, Vizianagaram	University Nominee
+Dr. C Krishna Mohan	Professor, IIT Hyderabad	Subject Expert
+Dr. K V Kadambari	Associate Professor in CSE, NIT Warangal	Subject Expert
+Shri Y S Rao	Director- Edwisely & Ed-Tech Starup, Hyderabad	Industry Expert
+Shri Kattoju Sailakshman	Cloud Engineer Support,-Big Data, Amazon Web Services, Bengaluru	Alumni
+S&H Board of Studies
+Name of the Member	Designation	Responsibility
+Prof. K.V. Narasimham	Professor	Chairman
+All Faculty	Professor	Member
+Dr. Durga Prasad Challa	Assistant Professor, Department of Mathematics, Indian Institute of Technology Tirupati.	Subject Expert
+Dr. A.R.N.Hanuman	Professor, Department of English, University of Hyderabad	Subject Expert
+Dr.Y.Rama Krishna	Professor & HOD, Department of Engineering Physics, AU College of Engineering	Subject Expert
+Dr.B.B.V.Sailaja	Associate Professor, Department of Inorganic and Analytical Chemistry, AUCST, Andhra University	Subject Expert
+Prof G.Sudarsana Rao	Professor, Department of Commerce and Management, Andhra University	Subject Expert
+Dr.S.Kalesha Vali	Professor & HOD, JNTUK,Vizianagaram	Subject Expert
+Dr. S. Prasanna Sree	Professor, Department of English, AU College of Arts & Commerce	Subject Expert
+Dr.G.J.Nagaraju	Assistant Professor, Department of physics, JNTUK,Vizianagaram	Subject Expert
+Dr.S.Satya Veni	Assistant Professor, (Chemistry & Environmental), JNTUK, Kakinada	Subject Expert
+Dr. P.Sree Devi	Assistant Professor, Management Studeis, JNTUK, Vizianagaram	Subject Expert
+Mrs. Gajalakshmi Sendil	Consultant-Key Accounts-South India Cambridge Assessment English, N028, Spurtank Rd, Chetpet, Chennai	Industry Expert
+Dr. Y.Gopinath	Associtate Vice- President, TCS, Hyderabad	Industry Expert

@@ -1,0 +1,101 @@
+cutoff data
+BCD
+
+
+B.Tech Computer Science Engineering
+31878	
+B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+37703	
+B.Tech Computer Science and Information Technology
+42264	
+B.Tech Electronics & Communication Engineering
+42292	
+B.Tech Computer Science and Systems Engineering
+44582	
+B.Tech Electrical and Electronics Engineering
+67391	
+B.Tech Mechanical Engineering
+88363	
+
+
+BCA
+
+B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+53082
+B.Tech Computer Science and Systems Engineering
+55261	
+B.Tech Computer Science and Information Technology
+65122	
+B.Tech Electronics & Communication Engineering
+65708	
+B.Tech Computer Science Engineering
+94268	
+B.Tech Electrical and Electronics Engineering
+102554	
+B.Tech Mechanical Engineering
+131965
+
+General
+
+B.Tech Computer Science Engineering
+39820	
+B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+39960	
+B.Tech Computer Science and Information Technology
+46726	
+B.Tech Electronics & Communication Engineering
+50068	
+B.Tech Computer Science and Systems Engineering
+63838	
+B.Tech Electrical and Electronics Engineering
+99311	
+B.Tech Mechanical Engineering
+104978	
+
+
+BCB
+
+
+B.Tech Computer Science Engineering
+54424	
+B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+65398	
+B.Tech Electronics & Communication Engineering
+72350	
+B.Tech Computer Science and Systems Engineering
+74309	
+B.Tech Computer Science and Information Technology
+74787	
+B.Tech Electrical and Electronics Engineering
+114498	
+B.Tech Mechanical Engineering
+123780	
+
+
+SC
+
+
+B.Tech Computer Science Engineering
+150204	
+B.Tech Computer Science and Information Technology
+160136	
+B.Tech Electrical and Electronics Engineering
+165104	
+B.Tech Electronics & Communication Engineering
+176612	
+B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+176703	
+
+ST
+
+B.Tech Computer Science Engineering
+154652	
+B.Tech Electronics & Communication Engineering
+160297
+
+
+BCE
+B.Tech Electronics & Communication Engineering
+161253
+B.Tech Computer Science Engineering
+169579

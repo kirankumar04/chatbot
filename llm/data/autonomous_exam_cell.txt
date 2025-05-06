@@ -1,0 +1,53 @@
+Autonomous Exam Cell
+Welcome to the Lendi Autonomous Examination Cell
+
+The Lendi Autonomous Examination Cell plays a vital role in academic assessment and evaluation at our institution. As an integral part of the autonomous setup, the Examination Cell ensures the seamless execution of all examination-related activities while upholding the highest standards of transparency, accuracy, and integrity.
+
+Objectives:
+
+The Examination Cell is established to ensure the smooth conduct of examinations and efficient evaluation processes in an autonomous academic institution. Its objectives serve as a vital pillar in supporting the institution’s commitment to delivering quality education and upholding academic standards.
+
+Its core objectives include:
+
+Upholding Academic Integrity: Maintain transparency and fairness in all examination-related processes to foster trust and credibility.
+Efficient Examination Management: Plan, organize, and execute examinations with precision, ensuring adherence to institutional timelines and regulations.
+Ensuring Confidentiality and Security: Handle question papers, answer scripts, and result processing with strict confidentiality to prevent any malpractice or breaches.
+Providing Student-Centric Services: Offer prompt and accurate support to students, including the issuance of hall tickets, grade cards, transcripts, and addressing grievances.
+Ensuring Quality Assessment: Prepare question papers aligned with learning objectives and course outcomes, covering various cognitive levels to promote comprehensive evaluation.
+Facilitating Timely Result Declaration: Ensure accurate evaluation processes to publish results within the stipulated timeframes.
+Leveraging Technology Integration: Utilize advanced technologies for efficient examination management, post-evaluation processes, and automated result declaration.
+Adherence to Academic Standards: Align examination policies and practices with institutional and statutory regulations to uphold academic excellence.
+Supporting Accreditation Processes: Maintain well-documented records and reports to meet the requirements of accreditation bodies and audits.
+Continuous Improvement: Regularly review and update examination procedures to enhance efficiency and address the evolving needs of students and faculty.
+Functionalities:
+
+Examination Planning: Design the academic calendar with comprehensive schedules for mid-semester, end-semester, and supplementary exams. Collaborate with departments to finalize timetables and ensure smooth operations.
+Question Paper Management: Prepare and moderate question papers to align with learning objectives and assessment standards. Ensure strict confidentiality and secure storage of question papers.
+Examination Conduct: Organize and supervise exams with a focus on discipline and fairness. Manage seating arrangements, invigilation schedules, and issuance of hall tickets.
+Result Declaration: Coordinate the evaluation of answer scripts by faculty members. Publish accurate and timely results, providing options for re-evaluation and supplementary exams.
+Student Services: Issue grade cards, transcripts, and provisional certificates. Address student grievances related to examinations and results.
+Technology-Driven Processes: Leverage advanced software solutions for secure and efficient exam management, from marks entry to result processing. Maintain a reliable database for examination records.
+Compliance and Reporting: Adhere to institutional guidelines, academic regulations, and statutory standards. Prepare detailed reports for audits and accreditation requirements.
+Continuous Improvement: Regularly update examination practices to align with modern educational standards. Collect and act on feedback from stakeholders to enhance the overall experience.
+Examination Cell
+
+Prof. K V Narasimham
+Controller of Examinations
+9866278504
+lendi.coe@gmail.com
+Department Examination Cell Incharge
+
+Mr. Unnam Sri Anjaneyulu
+Electrical & Electronics Engineering
+
+Dr. Ravikanth Yajjala
+Mechanical Engineering
+
+Mr. HemanthNag Bollepalli
+Electronics & Communications Engineering
+
+Dr A.V.Rama chandra Rao Golagani
+Computer Science & Engineering
+
+Mr G Srinivasa Rao
+Sciences & Humanities

@@ -1,0 +1,20 @@
+Our Library Team
+
+Mr. Ch. Venu
+MLISc, B.Ed, AP SET Qualified
+Librarian
+
+Mr. K. Mahesh
+MLISc
+Asst. Librarian
+Library Advisory Committe
+Name of the Member	Department	Role
+Dr. V.V.Rama Reddy	Principal	Chairman
+Dr. B Sridhar	ECE	Coordinator
+R. V. CH. Sekhar Rao	ECE	Member
+N P Patnaik M	CSE	Member
+K. Praveen Kumar Yadav	EEE	Member
+B Ushaswini	MECH	Member
+Dr E Gouthami	S&H	Member
+D Sudheer	CSIT	Member
+Sk. Althaf Rahaman	CSSE	Member

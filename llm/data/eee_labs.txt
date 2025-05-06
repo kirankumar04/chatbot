@@ -1,0 +1,36 @@
+EEE labs
+Laboratories
+
+Electrical Machines Lab
+Working, Testing and Performance of Different types of Machines (D.C & A.C)
+The student Able to control the speed and determine the performance, parameters of rotating machines, static devices like transformer., also able to determine the parameters of the machines.
+
+
+Power Electronics & Control Systems Lab
+Study of Power Electronic Devices & Converters , Designing, Development, & Determination of Response of Control Systems.
+The student able to Understand various power electronics devices & converters, To understand time and frequency responses of control system with and without controllers and compensators.
+
+
+Electrical measurements / Electrical circuits Lab
+Practical Verification of Network Theorems, Testing &Calibration of Various Measuring Instruments.
+The student able to verify theorems.measure various electrical parameters and calibrate different types of electrical measuring instruments, also able to measure the power in three phase circuits for various types of load.
+
+
+NT ET & BEE Lab
+Practical Verification of network thermos and Testing, working and performance of different types of machines.
+The student Able to apply various theorems ,to control the speed and determine the performance, parameters of rotating machines, static devices like transformer., also able to determine the parameters of the machine.
+
+
+Power system Lab
+Determination of power system network parameters and simulation of load flow studies.
+The student is able to determine the parameters of various power system components which are frequently occur in power system studies and he can execute energy management systems functions at load dispatch center.
+
+
+Project, R&D Lab
+Aim of the Research & Development lab is to facilitated for conducting research for the development of new product, which also furthure facilitated for academic development.
+Both Students and faculty members will be able to develop the new product.Also will be able to publish the research article as per the socity requirements
+
+
+Electrical Simulation Lab
+The main aim of the simulation lab is to imart the basic knowledge of the matlab for both coding & building the simulation model to analyze the system behaviour.
+Will be able familar to write the MATLAB coding for solving mathematical equation, will be able to familar to build the simulation model of the electrical circuits.

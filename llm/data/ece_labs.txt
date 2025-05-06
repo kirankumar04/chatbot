@@ -1,0 +1,51 @@
+ECE labs
+Laboratories
+
+Communications Lab
+To cater practical exposure towards the applications of communication engineering at low and higher frequency levels
+Communication lab provides the facilities to train students about fundamentals and applications of communication system. Students can be practically capable to manage the real time applications using various communication techniques used in this lab. This lab is mainly utilized by students of 2nd year 2nd semester (Analog communications Lab), 3rd year 2nd semester (Digital communications Lab) and 4th year 1st semester (Microwave & optical communications lab)
+
+
+MPMC and DLD Lab
+To build a firm background in Microprocessor hardware as well as software, along with the Microcontroller concepts, architecture, programming and application of Microcontrollers
+MPMC lab is well equipped with advanced facilities for performing experiments by using microprocessor 8086/8088 & micro controller 8051 Trainer Kits for interfacing with various I/O devices and advanced peripherals like 8255, 8279, 8251, MASM programming interfaced with various peripherals etc. This lab is utilized by undergraduate students of 3rd year 2nd semester of ECE and 3rd EEE
+
+
+EDC & ECA Lab
+Working and Testing of Different types of Electronic Devices & Circuits
+EDC/ECA lab provides the foundation of Electronics Engineering. Students are made familiar with electronic circuits and their intended uses in various applications. All the basic Electronic devices their characteristics, and applications can be studied. Using these devices the small electronic circuits can be constructed and checked This lab is utilized by undergraduate students of 2nd year 1st semester and also for 2nd year 2nd semester students
+
+
+LICA Lab
+Students to gain complete knowledge on working of IC741 and its real time applications
+It provides complete knowledge on Linear ICs and their applications. Most of the experiments in this lab are designed to be performed with IC 741 Op-amp. The major outcome of this lab is that students should gain complete knowledge on working of IC741 and its real time applications. By executing experiments in this lab, students are able to design various real time projects with different ICs like 741, 555. The laboratory is spacious with required equipment ready for various experiments. This lab is under the course work of various undergraduate students of 3rd year 1st semester
+
+
+PDC Lab
+Working and Testing of Different types of Pulse and Digital Circuits
+PDC lab is to provide knowledge about various digital and analog circuits that are helpful in wave shaping, generating pulse and oscillations. The lab is well equipped with all the facilities to perform various experiments. With the help of knowledge gained in this lab, the students are able to design various real time application projects that are helpful in day to day life. The under graduate students of 3rd year 1st semester utilize this lab for performing PDC lab
+
+
+Simulation Lab
+To provide experience on design, testing, and analysis of various digital circuits and signal processing algorithms
+This lab is well designed with sufficient number of computers (1:1 ratio), adequate space and convenient ambience with 36 systems with LAN connection and with LCD Projector, and having licensed Software’s like Xilinx ISE design suite 12.1 and MATLAB for programming purpose and utilized for undergraduate students of 3rd year 1st semester for conducting Digital system design & Digital IC application (DSD & DICA) Lab and also for conducting Digital Signal Processing (DSP) lab for 3rd year 2nd semester undergraduate students, to provide experience on Design, Testing, and Analysis of various digital circuits and Signal Processing Algorithms to acquaint the students with the various digital circuits and signal processing applications relevant to the field of electronics and communication engineering
+
+
+VLSI Lab
+Introduces the Technology, Design Concepts, Electrical Properties and Modeling Of Very Large Scale Integrated Circuits
+This lab facilitates the students to design basic building blocks of various VLSI circuits in front end as well as in back end also. This laboratory is equipped with adequate number of PC’s with Mentor Graphics software installed so that each student can perform the lab on their individual system
+
+
+R&D Lab
+Introduce the Technology, Design Concepts, Electrical Properties and Modelling Of Very Large Scale Integrated Circuits
+Research and development is one of the core activities of the college. The vision of R&D is to become the best in class institute in academic R&D education. This is supported by the mission to bring in research focus in the curriculum and inculcate culture among the students to enable them to work on innovative projects. The department have a well equipped R&D laboratory with computer systems and advanced software such as MATLAB with all tool boxes, Mentor Graphics-HEP1, HEP2, QUALNET and ANSYS Academic Teaching HFSS package.
+
+
+Industry Sponsored Lab
+IoT and Embedded Systems
+Apply Volt Pvt Ltd company sponsored industry-sponsored laboratory in the domain of VLSI Design to train both faculty and students. The company provides training and internships to the students. The company sponsored Xilinx Vivado system software, advanced FPGA boards worth of Rs.4,60,000/- to develop and implement Image processing and Video Processing algorithms on FPGA devices.
+
+
+Project Lab
+Projects on IoT and Embedded Systems
+Projects lab of ECE department specially creates a platform to create innovations and to explore the ideas to think out-of the box with the latest trends in Internet of Things and Embedded Electronics Sector

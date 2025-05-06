@@ -1,0 +1,22 @@
+Academic Council
+Name	Designation	Responsibility
+Dr. V.V.Rama Reddy	Principal	Chairman
+Dr. K C B Rao	Professor in ECE & Director, Academic Planning, JNTUGV	Member
+Dr. D.Rajya Lakshmi	Professor in CSE & Director of Evaluation, JNTUGV	Member
+Dr. K. Sri Kumar	Principal & Professor in EEE, UCEV, JNTUGV	Member
+Prof. K. Raja Gopal	Former Vice-Chancellor, Sri Krishna Deva Raya University, Ananthapur	Member
+Dr. K.V. Laskhmipathi Raju	Principal, MVGR College of Engineering, Vizianagaram	Member
+Dr. C L V R S V Prasad	Principal, GMRIT, Rajam	Member
+Sri Murali Bollu	CEO, ZenQ, Hyderabad	Member
+Dr.K Venkata Subbaiah	Professor, Department of M.E, AUCOE, Visakhapatnam	Special Invitee
+Dr. M.Rajan Babu	HOD, ECE	Member
+Dr. K. Subbaramaiah	HOD, EEE	Member
+Dr. Satish Pujari	HOD, ME	Member
+Prof. A.Rama Rao	HOD, CSE	Member
+Sk Atalaf Rahman	HOD, CSSE	Member
+Dr. P.D. Sailaja	HOD, S& H	Member
+Mr. G. Prakash Babu	Dean, T & P	Member
+Dr. T.Hari Babu	Vice- Principal (Admin)	Member
+Mr G Prakash Babu	HOD, CSIT	Member
+Prof. K.V. Narasimham	Controller of Examinations ( COE)	Member
+Mr. V Appala Naidu	HOD CSE( AIML)	Member
